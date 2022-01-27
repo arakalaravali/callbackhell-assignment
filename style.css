@@ -1,0 +1,10 @@
+.countdown{
+    background-color: aquamarine ;
+    width :10%;
+    text-align:justify;
+    padding:30px;
+    padding-right:50%;
+    margin-left: 10px;
+    flex-direction: row-reverse;
+   
+} 
